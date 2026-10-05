@@ -1,9 +1,5 @@
 # 关掉电脑它也在干活：一文读懂 OpenAI 的"全天候 AI 分身" Dots
 
-> 备选标题：
-> 1. ChatGPT 不再等你提问：OpenAI Dots 是什么，能做什么，靠不靠谱？
-> 2. 从聊天机器人到"数字同事"：OpenAI 在 DevDay 2026 押注的 Dots
-
 ## 一句话看懂
 
 Dots（官方写作小写 dots）是 OpenAI 在 2026 年 9 月 29 日（美国时间）DevDay 大会上发布的**常驻型 AI 智能体**：由 GPT-6 Astra 驱动，拥有自己的云端电脑和浏览器，可以通过插件连接 4000 多个应用，在你不盯着的时候也能 7×24 小时推进你交代的工作。
@@ -125,3 +121,8 @@ Dots 是 OpenAI 迄今最激进的一次"智能体化"尝试：自带电脑、�
 - BankInfoSecurity — https://www.bankinfosecurity.com/openai-dots-pushes-always-on-agents-into-enterprise-a-32970
 - Simon Willison DevDay 2026 直播记录 — https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/
 - The D*AI*LY BRIEF（企业版合规分析）— https://www.beri.net/article/openai-dots-always-on-agents-enterprise-beta-admin-controls-data-residency-audit-gaps
+
+
+---
+
+© 2026 Maynor（xianyu110）。本文文字采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可协议，转载请注明出处。文中第三方网页截图、商标归各自权利人所有，仅用于介绍与评论。

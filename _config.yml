@@ -1,0 +1,21 @@
+title: "关掉电脑它也在干活：一文读懂 OpenAI 的\"全天候 AI 分身\" Dots"
+description: "OpenAI 在 DevDay 2026 发布的 Dots 是什么？GPT-6 Astra 驱动、自带云端电脑、连接 4000+ 应用的常驻 AI 智能体：能力、谁能用、价格与安全争议一次讲清。"
+url: "https://xianyu110.github.io"
+baseurl: "/chatgpt-dots-guide"
+lang: zh-CN
+locale: zh_CN
+theme: jekyll-theme-cayman
+show_downloads: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+author:
+  name: Maynor
+  url: https://github.com/xianyu110
+twitter:
+  card: summary_large_image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://upload.maynor1024.live/file/1791092112946_dots-openai-blog-hero.jpg
